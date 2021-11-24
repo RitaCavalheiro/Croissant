@@ -1,7 +1,15 @@
 body {
   text-align: center;
+  background: #fff1c3;
 }
-.link {
-  display: flex;
-  justify-content: space-evenly;
+a {
+  margin: 0 10px;
+  color: brown;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
